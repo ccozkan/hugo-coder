@@ -1,4 +1,4 @@
-name = "Coder"
+name = "ccozkan/hugo-coder"
 license = "MIT"
 licenselink = "https://github.com/ccozkan/hugo-coder/blob/master/LICENSE.md"
 description = "Yet Another simple and clean blog theme for Hugo"
